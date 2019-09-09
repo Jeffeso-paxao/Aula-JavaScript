@@ -1,3 +1,32 @@
+/*var idade = prompt("Qual sua idade?"); Exibir pergunta
+
+//var idade = 18;
+if(idade>=18){
+    alert("maior de idade");
+}
+else{
+    alert("menor de idade");
+}*/
+/*var count = 0;
+while (count < 5){
+    console.log(count);
+    alert(count);
+    count++;
+}*/
+/*var count;
+for (count = 0 ;count <= 5; count++){
+    alert (count);
+};*/
+
+//var d = new Date();
+//alert(d.getMonth() + 1);
+//alert(d.getDay());
+//alert(d.getSeconds());
+//alert(d.getMonth());
+
+
+
+
 /*var nome = "Jefferson Lima";
 var idade = 29;
 var idade2 = 10;
